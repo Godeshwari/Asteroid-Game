@@ -67,13 +67,15 @@ Includes animations, gradients, and particle effects for an engaging experience.
 
 -->Game Mechanics
 
-🎯 Scoring:
+•🎯 Scoring:
 
 Points are awarded for each asteroid destroyed.
-❤️ Lives:
+
+•❤️ Lives:
 
 Players start with a set number of lives and can lose them by colliding with asteroids.
-📈 Levels:
+
+•📈 Levels:
 
 Advance to the next level by destroying all asteroids on the screen.
 
@@ -84,8 +86,11 @@ Advance to the next level by destroying all asteroids on the screen.
 -->How to Play
 
 •🚀 Use the arrow keys or on-screen buttons to control your spaceship.
+
 •💥 Shoot asteroids while avoiding collisions.
+
 •⭐ Collect power-ups to enhance your abilities.
+
 •🎮 Destroy all asteroids to progress to the next level.
 
 
