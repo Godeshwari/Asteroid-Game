@@ -1,17 +1,20 @@
-Project Overview 📝
+-->Project Overview 📝
 
 The Asteroid Game is a fun and interactive space shooter game built using HTML, CSS, and JavaScript.
 Players control a spaceship, navigating through a field of asteroids while shooting them down to score points.
 The game features responsive design, power-ups, and engaging graphics, making it an exciting experience for players of all ages.
 
-Prerequisites
+-->Prerequisites
 
 •📚 Basic knowledge of HTML, CSS, and JavaScript
+
 •📝 A text editor (e.g., VS Code, Sublime Text)
+
 •🌐 A web browser for testing
 
 
-Game Features 🎯
+
+-->Game Features 🎯
 
 •🚀 Player Controls:
 
@@ -28,3 +31,44 @@ Game Features 🎯
 ✨ Visual Effects:
 
 •Includes animations, gradients, and particle effects for an engaging experience.
+
+
+
+![image alt](https://github.com/Godeshwari/Asteroid-Game/blob/7258a0b62f2e6609d0be6af615f54f2ce66e76f3/screenshot.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
